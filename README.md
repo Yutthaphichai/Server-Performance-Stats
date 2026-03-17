@@ -78,3 +78,5 @@ Server performance stats — Tue Mar 17 13:01:26 +07 2026
 ## License
 
 Use as allowed by the project.
+
+https://roadmap.sh/projects/server-stats
